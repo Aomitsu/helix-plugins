@@ -45,7 +45,7 @@ Features:
 
 Configuration: You can adjust 'propsMinHP' (default 50) and 'propsHPMultiplier' (default 5) in your server configuration to balance durability.
 
-*AI usage note: Code quality impromevents.*
+*AI usage note: Code quality improvements.*
 ]]
 
 ix.util.Include("sv_plugin.lua")
